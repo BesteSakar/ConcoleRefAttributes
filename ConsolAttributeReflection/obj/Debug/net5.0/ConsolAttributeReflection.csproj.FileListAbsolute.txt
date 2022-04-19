@@ -1,0 +1,16 @@
+C:\Users\beste\source\repos\tcKimlikDogrulama\ConsolAttributeReflection\bin\Debug\net5.0\ConsolAttributeReflection.exe
+C:\Users\beste\source\repos\tcKimlikDogrulama\ConsolAttributeReflection\bin\Debug\net5.0\ConsolAttributeReflection.deps.json
+C:\Users\beste\source\repos\tcKimlikDogrulama\ConsolAttributeReflection\bin\Debug\net5.0\ConsolAttributeReflection.runtimeconfig.json
+C:\Users\beste\source\repos\tcKimlikDogrulama\ConsolAttributeReflection\bin\Debug\net5.0\ConsolAttributeReflection.runtimeconfig.dev.json
+C:\Users\beste\source\repos\tcKimlikDogrulama\ConsolAttributeReflection\bin\Debug\net5.0\ConsolAttributeReflection.dll
+C:\Users\beste\source\repos\tcKimlikDogrulama\ConsolAttributeReflection\bin\Debug\net5.0\ConsolAttributeReflection.pdb
+C:\Users\beste\source\repos\tcKimlikDogrulama\ConsolAttributeReflection\obj\Debug\net5.0\ConsolAttributeReflection.csproj.AssemblyReference.cache
+C:\Users\beste\source\repos\tcKimlikDogrulama\ConsolAttributeReflection\obj\Debug\net5.0\ConsolAttributeReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beste\source\repos\tcKimlikDogrulama\ConsolAttributeReflection\obj\Debug\net5.0\ConsolAttributeReflection.AssemblyInfoInputs.cache
+C:\Users\beste\source\repos\tcKimlikDogrulama\ConsolAttributeReflection\obj\Debug\net5.0\ConsolAttributeReflection.AssemblyInfo.cs
+C:\Users\beste\source\repos\tcKimlikDogrulama\ConsolAttributeReflection\obj\Debug\net5.0\ConsolAttributeReflection.csproj.CoreCompileInputs.cache
+C:\Users\beste\source\repos\tcKimlikDogrulama\ConsolAttributeReflection\obj\Debug\net5.0\ConsolAttributeReflection.dll
+C:\Users\beste\source\repos\tcKimlikDogrulama\ConsolAttributeReflection\obj\Debug\net5.0\refint\ConsolAttributeReflection.dll
+C:\Users\beste\source\repos\tcKimlikDogrulama\ConsolAttributeReflection\obj\Debug\net5.0\ConsolAttributeReflection.pdb
+C:\Users\beste\source\repos\tcKimlikDogrulama\ConsolAttributeReflection\obj\Debug\net5.0\ConsolAttributeReflection.genruntimeconfig.cache
+C:\Users\beste\source\repos\tcKimlikDogrulama\ConsolAttributeReflection\obj\Debug\net5.0\ref\ConsolAttributeReflection.dll
